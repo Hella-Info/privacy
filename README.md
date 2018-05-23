@@ -1,18 +1,12 @@
 # Datenschutzerklärung
 
-Die Nutzung unserer App ist ohne eine Angabe von personenbezogenen 
-Daten möglich. Für die Nutzung einzelner Services unserer Seite können 
-sich hierfür abweichende Regelungen ergeben, die in diesem Falle 
-nachstehend gesondert erläutert werden. Ihre personenbezogenen 
-Daten (z.B. Name, Anschrift, E-Mail, Telefonnummer, u.ä.) werden 
-von uns nur gemäß den Bestimmungen des österreichischen Datenschutzgesetzes
-verarbeitet. Daten sind dann personenbezogen, wenn sie eindeutig 
-einer bestimmten natürlichen Person zugeordnet werden können. 
-Die rechtlichen Grundlagen des Datenschutzes finden Sie im 
-österreichischen [Datenschutzgesetz 2000](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=bundesnormen&Gesetzesnummer=10001597). 
-Nachstehende Regelungen informieren Sie insoweit über die Art, 
-den Umfang und Zweck der Erhebung, die Nutzung und die Verarbeitung 
-von personenbezogenen Daten durch den Anbieter
+Die Nutzung von ONYX ist ohne Angabe von personenbezogenen Daten uneingeschränkt
+möglich.
+Um unsere Produkte kontinuierlich zu verbessern, werden ausschließlich
+nicht-personenbezogene Daten zur statistischen Auswertung von uns erfasst und
+verarbeitet. Um welche Daten es sich hierbei handelt wird Ihnen in diesem
+Dokument erklärt. Sollten Sie weitere Fragen zu ONYX und den verarbeiteten Daten
+haben, dann wenden Sie sich bitte an:
 
 HELLA Sonnen- und Wetterschutztechnik GmbH<br/>
 9913 Abfaltersbach 125<br/>
@@ -20,39 +14,27 @@ Austria<br/>
 +43 4846 6555 0<br/>
 <a href="mailto:office@hella.info">office@hella.info</a><br/>
 
-Wir weisen darauf hin, dass die internetbasierte Datenübertragung 
-Sicherheitslücken aufweist, ein lückenloser Schutz vor Zugriffen 
-durch Dritte somit unmöglich ist.
+## Welche Daten werden gespeichert?
 
-## Datenspeicherung
+Folgende Daten werden von Ihrem ONYX-System für die Verbesserung unserer
+Produkte erhoben und auf unseren Servern gespeichert:
 
-Die Art der persönlichen Daten die wir erfassen hängt von der 
-Erfassungsmethode ab. Über die Website und die App können wir Folgendes
-erfassen:
+  - Seriennummern der ONYX Komponenten
+  - Messwerte und Einstellungen der ONYX Komponenten wie
+    z.B. Wetterdaten und Motorparameter
+  - Qualität der Funkübertragung zwischen den Komponenten
+  - Versionsnummern von Hardware- und Softwarekomponenten
+  - Fehlermeldungen und Absturzdaten
+  - Art und Versionsnummern der Endgeräte (Handys, Tablets, usw.), welche
+    mit Ihrem ONYX System verbunden sind
 
-  - IP-Adresse
-  - MAC-Adresse
-  - Benutzer-ID
-  - Geografischer Standort
-  - Arten der Geräte, die mit der ONYX-App verbunden sind
-  - Nutzungsdaten
-  - Absturzdaten
+Alle Daten werden anonymisiert gespeichert. Ein Rückschluss auf einzelne
+Personen oder das Erstellen von Nutzerprofilen ist nicht möglich.
 
-Wir speichern diese Nutzungsdaten auch, um Ihnen angemessene 
-Kundenservices sowie Problembehebung nach dem Kauf anzubieten. 
-Die Nutzungsdaten werden so lange gespeichert wie nötig, um Ihnen 
-die Services anzubieten.
-ONYX übermittelt Daten mit sicheren Methoden (mithilfe von SSL) und 
-verschlüsselt einige Daten, wenn diese gespeichert werden.
-Wir behalten Daten so lange, wie es zur Bereitstellung der Services 
-nötig ist.
+## Wozu benötigt die ONYX-App meinen Standort?
 
-## Auskunft/Widerruf/Löschung
-
-Sie können sich aufgrund des Bundesdatenschutzgesetzes bei Fragen 
-zur Erhebung, Verarbeitung oder Nutzung Ihrer personenbezogenen 
-Daten und deren Berichtigung, Sperrung, Löschung oder einem Widerruf 
-einer erteilten Einwilligung unentgeltlich an uns wenden. Wir weisen 
-darauf hin, dass Ihnen ein Recht auf Berichtigung falscher Daten oder 
-Löschung personenbezogener Daten zusteht, sollte diesem Anspruch keine 
-gesetzliche Aufbewahrungspflicht entgegenstehen.
+Bei der Konfiguration Ihres ONYX-Systems werden Sie von der ONYX-App zur Eingabe
+des Standorts Ihres ONYX.CENTERs aufgefordert. Diese Daten sind notwendig, um die
+Zeiten für Sonnenaufgang und Sonnenuntergang korrekt zu berechnen. Die
+exakten Standortdaten werden ausschließlich auf Ihrem ONYX.CENTER und auf Ihren
+Endgeräten verarbeitet und nicht auf unseren Servern gespeichert.

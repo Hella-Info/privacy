@@ -1,15 +1,10 @@
 # Privacy policy
 
-Our application can be generally used without providing personal data. The use
-of individual services from our site may be governed by differing regulations;
-these cases are explained separately below. Your personal data (e.g., name,
-address, email address, telephone number, etc.) will be processed by us
-exclusively in accordance with Austrian data protection laws. Data are thus
-considered personal if they can be clearly assigned to an individual, physical
-person. The legal basis for data protection can be found in the Austrian
-[Data Protection Law 2000](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=bundesnormen&Gesetzesnummer=10001597).
-The following regulations inform you about the nature and scope of the personal
-data we collect, process, and use, and for what purpose.
+ONYX can be used without restrictions without providing any personal data.
+To continually improve our products we only collect and analyze anonymized data
+and statistics. This document explains in detail which data we collect and why.
+If you have any further questions regarding ONYX and the data we collect, please
+contact:
 
 HELLA Sonnen- und Wetterschutztechnik GmbH<br/>
 9913 Abfaltersbach 125<br/>
@@ -17,33 +12,26 @@ Austria<br/>
 +43 4846 6555 0<br/>
 <a href="mailto:office@hella.info">office@hella.info</a><br/>
 
-Please note that Internet-based data transmission presents security gaps and
-that complete protection against access by third parties is impossible.
+## Which data is collected?
 
-## Data storage
+The following kinds of data are collected by your ONYX system and are
+transmitted to our servers to help us to improve our products:
 
-The type of personal data that we collect depends on the collection method.
-Through the website and the app, we can capture:
+  - Serial numbers of ONYX components
+  - Measurements and settings of ONYX components such as weather data and motor
+    parameters
+  - Quality of the radio transmission between ONYX components
+  - Version numbers of hardware and software components
+  - Error messages and crash logs
+  - Type and version of the devices, such as mobile phones and tablets, that are
+    connected to your ONYX system
 
-  - IP address
-  - MAC address
-  - User ID
-  - Geographical location
-  - Types of devices connected to the ONYX app
-  - Usage data
-  - Crash data
+All data is anonymized. Analyzing an individual users behaviour and/or the
+creation of user profiles is not possible with the data we collect. 
 
-We also store these usage data to provide you with appropriate customer service
-and post-purchase troubleshooting. Usage data shall be stored as long as
-necessary to offer you our services. ONYX transmits data using secure methods
-(via SSL) and encrypts some data when they are stored. We retain data as long as
-it is necessary to provide the services.
+## Why does the ONYX app need access to my location?
 
-## Information/revocation/deletion
-
-If you have any questions regarding the collection, processing, or use of your
-personal information, or to request that your data be disclosed, corrected,
-blocked, or deleted, or to revoke consent, please contact us. You also have a
-right to correct inaccurate data, delete, or block your personal data insofar as
-it is not required for fulfilling a contract, and deletion is not contrary to
-any legal obligation of retention.
+When configuring your ONYX system, the ONYX app asks you for the exact location
+of your ONYX.CENTER. This is necessary to correctly calculate the times of
+sunrise and sunset. Exact location data is only stored on your ONYX.CENTER and
+on your personal devices. It is not transmitted to our servers.
